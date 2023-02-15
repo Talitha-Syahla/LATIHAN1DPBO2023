@@ -60,7 +60,7 @@ Semua program mempunyai alur yang sama, kecuali pada program PHP karena inputan 
 ![C++ program](Lat1_c++/c++1.png)
 ![C++ program](Lat1_c++/c++2.png)
 
-### C++
+### Python
 
 ![Python program](Lat1_py/py1.png)
 ![Python program](Lat1_py/py2.png)
